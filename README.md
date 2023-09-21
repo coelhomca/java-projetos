@@ -1,2 +1,1 @@
-# java-projetos
-Projetos Java Spring Boot.
+# Projetos Java Spring Boot
